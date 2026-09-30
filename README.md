@@ -1,38 +1,11 @@
-# Olá, seja bem-vindo à ElizFab 🚀
+# elizfab/.github
 
-Organização criada para reunir projetos de estudo, automações, inteligência artificial e desenvolvimento de software.
+Repositório especial da organização **elizfab**.
 
-## Objetivos
+| Arquivo | Função |
+| --- | --- |
+| `profile/README.md` | Capa exibida em [github.com/elizfab](https://github.com/elizfab) (portfólio da org) |
+| `.github/pull_request_template.md` | Template padrão de PR para os repositórios da org que não têm o próprio |
+| `.github/ISSUE_TEMPLATE/` | Templates padrão de issue (bug e nova funcionalidade) |
 
-- Aprender novas tecnologias
-- Desenvolver aplicações práticas
-- Criar automações úteis para o dia a dia
-- Compartilhar conhecimento
-
-## Projetos
-
-### 📚 Caderno Inteligente
-Sistema para organização de estudos e conhecimento.
-
-### 🩺 Carteira Saúde
-Projeto para gerenciamento de informações de saúde.
-
-### 💊 Suplementos Store
-Aplicação voltada para catálogo e gestão de suplementos.
-
-## Tecnologias
-
-https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-
-## Automações
-
-Esta organização também é utilizada para experimentos com:
-
-- GitHub Actions
-- Inteligência Artificial
-- Agentes Autônomos
-- APIs e Integrações
-
----
-
-⭐ Projetos desenvolvidos para aprendizado contínuo.
+Repositórios com templates próprios (ex.: `mfe-elizabetefabri-portfolio`) usam os seus; estes valem como padrão para os demais.
